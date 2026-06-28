@@ -4,6 +4,12 @@
   Software engineering student at <b>FIAP</b> 🇧🇷 — building full-stack web apps that actually ship.
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/belton-meira-080a09326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About me
