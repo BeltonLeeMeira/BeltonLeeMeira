@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Belton 👋</h1>
 
 <p align="center">
-  Software engineering student at <b>FIAP</b> 🇧🇷 — building full-stack web apps that actually ship.
+  Software engineering student at <b>FIAP</b> 🇧🇷 
 </p>
 
 <p align="center">
